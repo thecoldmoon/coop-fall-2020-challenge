@@ -20,6 +20,7 @@ class EventSourcer():
 
     def subtract(self, num: int):
         self.add(-num)
+        pass
 
     def undo(self):
         pointer = self.ptr
