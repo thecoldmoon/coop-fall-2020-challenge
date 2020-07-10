@@ -24,7 +24,7 @@ class EventSourcer():
 
     def subtract(self, num: int):
 
-        # The opposite of subtract, same procedure
+        # The opposite of adc, same procedure
         self.add(-num)
         pass
 
